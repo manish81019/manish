@@ -1,0 +1,3 @@
+[submodule "manish"]
+	path = manish
+	url = https://github.com/manish81019/manish.git
